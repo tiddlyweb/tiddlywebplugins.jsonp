@@ -11,7 +11,7 @@ from tiddlyweb.serializations.json import Serialization as JSON
 
 SERIALIZERS = {
         'application/json': ['tiddlywebplugins.jsonp',
-            'application/json; charset=UTF-8'],
+            'application/json'],
         }
 
 
